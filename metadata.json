@@ -1,0 +1,6 @@
+{
+  "name": "MEUU AI",
+  "description": "All-in-one AI-powered student assistant for stream selection, entrance exams, colleges, scholarships, admissions, forms, documents, and career guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
